@@ -1,0 +1,6 @@
+[core]
+    remote = local
+['remote "local"']
+    url = /data
+['remote "gd"']
+    url = gdrive://1EPU7tRQsZAVoTYnKySy1ILkjOntMUGiw
