@@ -117,7 +117,7 @@ tqdm==4.46.0
 traitlets==4.3.3
 treelib==1.6.1
 uritemplate==3.0.1
-urllib3==1.22
+urllib3==1.24.2
 voluptuous==0.11.7
 wcwidth==0.1.9
 webencodings==0.5.1
